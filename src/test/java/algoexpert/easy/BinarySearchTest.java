@@ -1,9 +1,9 @@
-package algoexpert.easy.binarysearch;
+package algoexpert.easy;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-public class ProgramTest {
+public class BinarySearchTest {
     @Test
     public void testCase1(){
         Assert.assertTrue( BinarySearch.binarySearch(new int[]{1,5,23,111}, 111) == 3);

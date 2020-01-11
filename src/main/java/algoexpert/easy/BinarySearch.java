@@ -1,4 +1,4 @@
-package algoexpert.easy.binarysearch;
+package algoexpert.easy;
 
 public class BinarySearch {
 
